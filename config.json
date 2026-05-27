@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productconnect",
+        "uuid": 3536750,
+        "checksum": "uumsi"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
